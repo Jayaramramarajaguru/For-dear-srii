@@ -71,6 +71,7 @@ function HeroSlide() {
 }
 
 const LETTER_PARTS = [
+  "my dear srii 🐒💗",
   'Somewhere between all our ordinary days, you quietly became the person I look for first in every room.',
   "I want to be the one who shows up. On the days you're laughing too hard to breathe, and on the days you can't explain why you're crying — both versions of you get all of me, no questions asked.",
   "We have each other. That's not a small thing. For me, honestly, it might be the whole thing.",
